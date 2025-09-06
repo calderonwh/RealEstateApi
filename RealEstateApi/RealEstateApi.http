@@ -1,0 +1,5 @@
+@RealEstateApi_HostAddress = http://localhost:5290
+
+Accept: application/json
+
+###
